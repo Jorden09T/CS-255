@@ -1,1 +1,11 @@
 # CS-255
+
+The client is DriverPass, it is a small company who provides driving lesson services, looking to automate their existing system. DriverPass is hoping for the new system to grant students access to online practice exams, reserve driving lessons and provide their administrative team with access to view, schedule and edit driving reservations and run reports. 
+
+I think the preparation of the system that was provided to the client was done particularly well. Generating plans and producing a requirement document is important for mutual understanding of the expectations for the system functionality. Maintaining constant communication ensures the needs of the client are met prior to the start of the system design. Using non technical language is crucial to providing the client with a solid understanding of our intentions when it comes to the system. Adding visuals will also assist in demonstrating what the system is intended to do.
+
+I interpreted the user's needs by breaking down their expectations. As it is important to understand all of the clients criteria before implementing the design so nothing is overlooked and all of their requirements are met. With each component the client desired to have included within the system it was important for that information to be included. This provides an overview for the expectations of the system which would allow for a clear design path.
+
+The best way to approach the design of the software would be to look at both the top-down design and bottom up design. Top down design enables the designer to gain a broad understanding of how the system should function once it is completed.This is followed by breaking down individual functions. Bottom down design does the opposite by starting with basic functionality of each step then building higher-level functions within the system. 
+
+Gathering project requirements and understanding what outcome the system must produce is needed to be done first. Once requirements are collected, the building of diagrams and the outlining of the high level and low level functions of the system so that more details of the systems design can be listed. Following the completion of diagrams and outlines, the design can then be implemented and fulfilled for the client. 
